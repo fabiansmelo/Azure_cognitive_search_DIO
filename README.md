@@ -22,10 +22,10 @@ Com o Azure AI Search, você pode:
 
 ### Pré-requisitos
 
-Conta ativa no Microsoft Azure
-Azure CLI instalado e configurado
-Conhecimento básico de JSON e conceitos de busca
-Fonte de dados configurada (SQL, Cosmos DB, Blob Storage, etc.)
+- Conta ativa no Microsoft Azure
+- Azure CLI instalado e configurado
+- Conhecimento básico de JSON e conceitos de busca
+- Fonte de dados configurada (SQL, Cosmos DB, Blob Storage, etc.)
 
 ### Criar um Serviço de Pesquisa
 
